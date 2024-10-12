@@ -11,10 +11,6 @@
 - **Ease of Integration**: Simple to add to any HTML page and customize using CSS.
 - **Lightweight**: Minimal dependencies and fast to load.
 
-## Demo
-
-Check out a live demo of the project [here](#) (add your demo link).
-
 ## Technologies Used
 
 - **HTML5**: Structuring the keyboard and web components.
@@ -28,4 +24,4 @@ To use **SimpleKeyboard** in your own project, follow these steps:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/simplekeyboard.git
+git clone https://github.com/GadAhmed1/SimpleKeyboard.git
